@@ -49,11 +49,11 @@ The goal is to evaluate performance, scalability, and memory usage of each struc
 
 ### Test 3: Max Size Test
 - AVL Tree inserted over 39.4 million nodes
-- Peak RAM usage: 14.2 / 14.8 GB
+- Peak RAM usage: 14.2 / 14.8 GB (among other things)
 - No crash occurred; system remained stable during the test
 - Result: Passed (manually interrupted)
 
-**Memory Recommendation:** Reserve approximately 12–13 GB for full-scale AVL Tree operations in constrained systems.
+**Memory Recommendation:** Reserve approximately 12–13 GB for full-scale AVL Tree operations in constrained systems. (considering having other tabs open)
 
 ---
 
