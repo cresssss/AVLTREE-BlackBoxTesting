@@ -134,7 +134,7 @@ int main() {
     testCorrectnessDeletionAVL();
     system("pause");
 
-    // testMaxSizeAVL(); // Uncomment if you want to test max size (can crash)
+    //testMaxSizeAVL(); // Uncomment if you want to test max size (can crash) // no need to uncomment again already tested
     // system("pause");
 
     testLoadStdMap();
