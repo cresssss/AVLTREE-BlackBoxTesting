@@ -1,6 +1,6 @@
 # SEE600 Assignment: Custom AVL Tree vs std::map Performance Testing
 
-**Author:** George Paul Robert  
+
 **Date:** March 2025  
 **Environment:**  
 - OS: Windows 11  
